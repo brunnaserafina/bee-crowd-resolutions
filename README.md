@@ -8,6 +8,8 @@ O BeeCrowd é um site que oferece uma variedade de desafios de lógica e program
 
 As resoluções estão organizadas em pastas, onde cada pasta representa um desafio específico. Cada desafio contém uma ou mais soluções, dependendo das abordagens e variações possíveis.
 
+[Conecte-se comigo no beecrowd!](https://www.beecrowd.com.br/judge/pt/profile/847319)
+
 ## Requisitos
 
 Para executar as soluções neste repositório, você precisará ter o ambiente de execução do JavaScript instalado em seu computador. Você pode utilizar o Node.js ou qualquer navegador moderno para executar o código.
@@ -39,4 +41,6 @@ Você é incentivado a contribuir com suas próprias soluções ou melhorias par
 Antes de contribuir, verifique se o desafio que você deseja adicionar ou aprimorar ainda não foi resolvido. Seja claro e conciso em suas soluções e forneça comentários adequados para que outros possam entender sua abordagem.
 
 ### Autora
+
 - [@brunnaserafina](https://www.github.com/brunnaserafina)
+

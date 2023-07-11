@@ -23,20 +23,23 @@ $ git clone https://github.com/brunnaserafina/bee-crowd-resolutions.git
 ```
 
 
-2. Navegue até o diretório do desafio que deseja explorar:
+2. Navegue até o diretório do projeto:
 
 ```
-$ cd bee-crowd-resolutions/problems/nome-do-desafio
+$ cd bee-crowd-resolutions
 ```
 
 
-3. Abra o arquivo `solucao.js` em um editor de texto ou IDE de sua preferência para estudar a solução.
+3. Execute o exercício que deseja rodar.
 
-4. Execute o arquivo `solucao.js` no ambiente JavaScript de sua escolha (Node.js ou navegador) para ver a solução em ação.
+```
+$ node problems/numero-exercicio.js
+```
+
 
 ## Contribuição
 
-Você é incentivado a contribuir com suas próprias soluções ou melhorias para as soluções existentes. Se você encontrar uma solução mais eficiente ou quiser adicionar um novo desafio, sinta-se à vontade para fazer um fork deste repositório, criar uma nova branch para sua contribuição e, em seguida, abrir uma solicitação pull para que suas alterações sejam revisadas e incorporadas ao projeto principal.
+Fique à vontade para contribuir com suas próprias soluções ou melhorias para as soluções existentes. Se você encontrar uma solução mais eficiente ou quiser adicionar um novo desafio, faça um fork deste repositório, crie uma nova branch para sua contribuição e, em seguida, abra uma solicitação pull para que suas alterações sejam revisadas e incorporadas ao projeto principal.
 
 Antes de contribuir, verifique se o desafio que você deseja adicionar ou aprimorar ainda não foi resolvido. Seja claro e conciso em suas soluções e forneça comentários adequados para que outros possam entender sua abordagem.
 

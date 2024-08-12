@@ -6,7 +6,7 @@ Este repositório contém as resoluções de exercícios de lógica do site BeeC
 
 O BeeCrowd é um site que oferece uma variedade de desafios de lógica e programação para praticar e aprimorar suas habilidades. Este repositório tem como objetivo fornecer as soluções para esses desafios, escritas em JavaScript, para que você possa estudar, comparar suas abordagens e aprender com diferentes soluções.
 
-As resoluções estão organizadas em pastas, onde cada pasta representa um desafio específico. Cada desafio contém uma ou mais soluções, dependendo das abordagens e variações possíveis.
+As resoluções estão organizadas por número de exercício, onde em cada arquivo coloco um comentário com um breve resumo sobre o desafio, a função de solução e um exemplo de entrada.
 
 [Conecte-se comigo no beecrowd!](https://www.beecrowd.com.br/judge/pt/profile/847319)
 
